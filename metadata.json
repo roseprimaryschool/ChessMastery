@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Studio - Chess Bot & Analysis",
+  "description": "Play chess against configurable Elo bots, analyze games with a built-in evaluation engine, and learn with interactive tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
